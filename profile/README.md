@@ -49,10 +49,11 @@ Founded in 2020, The Yellow brings together:
 
 ## 🛠️ Technologies We Love  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0E1128?logo=unrealengine)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Render.com](https://img.shields.io/badge/-Render.com-46E3B7?logo=render&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws)
+
 
 *And many more cutting-edge tools*
 
