@@ -21,8 +21,6 @@ It combines **instant wallet technology**, **branded trust systems**, and **huma
 - **Seamless Experience** — QR verification flows, mobile access, and global compatibility.  
 - **Global Scale** — API‑driven infrastructure ensures consistent reliability across regions.  
 
----
-
 ## About
 GhostFund was created to ensure funding is transparent, reliable, and human‑first.  
 Where other platforms rely on placeholders or fragmented processes, GhostFund delivers clarity and credibility at every step.
@@ -31,13 +29,9 @@ Where other platforms rely on placeholders or fragmented processes, GhostFund de
 - **For Contributors** — Transparent investment cycles, verified companies, and accountability records.  
 - **For Organizations** — Endorse communities without financial risk, while maintaining credibility.  
 
----
-
 ## Access
 - **Web Platform:** [platform.ghostfund.co.zw](https://platform.ghostfund.co.zw)  
 - **Mobile App:** Available on the Google Play Store  
-
----
 
 ## Core Values
 <div align="center">
@@ -48,8 +42,6 @@ Where other platforms rely on placeholders or fragmented processes, GhostFund de
 
 </div>
 
----
-
 ## Support & Resources
 - Support Center and FAQs  
 - Live Chat  
@@ -57,13 +49,10 @@ Where other platforms rely on placeholders or fragmented processes, GhostFund de
 - Investor Relations  
 - Partnerships and Careers  
 
----
-
 <div align="center">
 
 # Learn More  
 [ghostfund.co.zw](https://www.ghostfund.co.zw/)
 
----
 
 </div>
